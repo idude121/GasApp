@@ -4,10 +4,10 @@
     "slug": "GasApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/gasPump.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/gasPump.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
